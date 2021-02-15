@@ -1,1 +1,1 @@
-# botko
+A simple IRC bot
